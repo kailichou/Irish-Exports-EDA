@@ -1,0 +1,128 @@
+{
+   "data":{ 
+    "economy":[
+        {
+            "External Trade": [
+            {
+                "code":"TSM01",
+                "name":"Value of Merchandise Trade",
+                "feature": ["State","Month"]
+
+            },
+            {
+                "code":"TSM02",
+                "name":"Merchandise Trade Price and Volume Indices",
+                "feature": ["State","Month"]
+            },
+            {
+                "code":"TSM04",
+                "name":"Exports of Cattle and Beef",
+                "feature": ["State","Month"]
+            },
+            {
+                "code":"TSM05",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Area","Month"]
+            },
+            {
+                "code":"TSM06",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Commodity Group", "Month"]
+            },
+            {
+                "code":"TSM07",
+                "name":"Value of Merchandise Imports by Main Use",
+                "feature": ["Area of Origin", "Month"]
+            },
+            {
+                "code":"TSM08",
+                "name":"Value of Merchandise Exports",
+                "feature": ["Area of Origin", "Month"]                
+            },
+            {
+                "code":"TSM09",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Commodity Group", "Area", "Month"]
+
+            },
+            {
+                "code":"TSM10",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Commodity Group", "Country", "Month"]
+
+            },
+            {
+                "code":"TSM13",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Nationality", "Month"]
+            },
+            {
+                "code":"TSM14",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Commodity Group", "Country", "Month"]
+            },
+            {
+                "code":"TSA01",
+                "name":"Value of Merchandise Trade",
+                "feature": ["State", "Year"]
+            },
+            {
+                "code":"TSA02",
+                "name":"Merchandise Trade Price Indices",
+                "feature": ["State", "Year"]
+            },
+            {
+                "code":"TSA04",
+                "name":"Exports of Cattle and Beef",
+                "feature": ["State", "Year"]
+            },
+            {
+                "code":"TSA06",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Commodity Group", "Year"]
+            },
+            {
+                "code":"TSA07",
+                "name":"Value of Merchandise Imports by Main Use",
+                "feature": ["Area of Origin", "Year"]
+            },
+            {
+                "code":"TSA08",
+                "name":"Value of Merchandise Exports",
+                "feature": ["Area of Origin", "Year"]
+            },
+            {
+                "code":"TSA09",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Commodity Group","Area", "Year"]
+            },
+            {
+                "code":"TSA10",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Commodity Group","Country", "Year"]
+            },
+            {
+                "code":"TSA13",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Nationality", "Year"]
+            },
+            {
+                "code":"TSA14",
+                "name":"Value of Merchandise Trade",
+                "feature": ["Country", "Commodity Group", "Year"]
+            },
+            {
+                "code":"TSA11",
+                "name":"Exports and Imports",
+                "feature": ["Sector of Activity", "Size of Enterprise", "Year"]
+            },
+            {
+                "code":"TSA12",
+                "name":"UK Exports and Imports",
+                "feature": ["Sector of Activity", "Size of Enterprise", "Year"]
+            }  
+        ]
+        }
+        ]
+    }
+}
